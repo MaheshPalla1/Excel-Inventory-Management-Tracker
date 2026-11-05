@@ -28,3 +28,7 @@ An Excel-based inventory management system designed to track stock movements, go
 
 ## Author
 Mahesh Palla
+
+## Dashboard Preview
+<img width="1917" height="667" alt="Inventory_Dashboard" src="https://github.com/user-attachments/assets/b9bd61a2-2e18-4aa6-990b-2c24d9c092fb" />
+
